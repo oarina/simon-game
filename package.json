@@ -1,0 +1,20 @@
+{
+  "name": "sinomgamejesttesting",
+  "version": "1.0.0",
+  "description": "- Game to test the jest testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oarina/simon-game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oarina/simon-game/issues"
+  },
+  "homepage": "https://github.com/oarina/simon-game#readme"
+}
